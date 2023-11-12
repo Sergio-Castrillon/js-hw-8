@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "js-hw-8",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://sergio-castrillon.github.io/js-hw-8/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /js-hw-8/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/goitacademy/js-hw-8.git"
   },
   "alias": {
     "process": {
@@ -20,7 +20,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/goitacademy/js-hw-8/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
